@@ -16,4 +16,3 @@ Visualizing the impact of the national lockdown in India on the spread of the vi
 5. Deaths Rate Before and After national Lockdown in India
 Visualizing the impact of the national lockdown in India on the death rate.
 
-6. Repeating same for Germany.
